@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+# Site
+title: Scott's Blog
+subtitle: Do whatever you can do before it's too late.
+description:
+author: Scott Xiong
+language:
+timezone: Asia/Shanghai
